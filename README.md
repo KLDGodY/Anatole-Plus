@@ -2,7 +2,7 @@
 
 轻轻挥动鼠标，在右上角给个star吧!
 
-[下载](https://github.com/yemaster/Anatole-Plus/releases) | [安装](https://yemaster.github.io/2019/08/20/Anatole-Plus/) | [教程](https://yemaster.github.io/2019/08/17/hexo/)
+[下载](https://github.com/KLDGodY/Anatole-Plus/archive/master.zip) | [安装](https://github.com/KLDGodY/Anatole-Plus#%E5%AE%89%E8%A3%85) | [教程](https://github.com/KLDGodY/Anatole-Plus#%E5%AE%89%E8%A3%85)
 
 ### 介绍
 
@@ -42,7 +42,7 @@ Hexo博客还在用NexT？看惯了吧！试试Anatole-Plus。此主题系 Farbo
 
 ### Demo
 
-链接:[Yemaster's blog](https://yemaster.github.io)
+链接:[KLDGodY's blog](https://www.kldgody.top)
 
 图片:
 
