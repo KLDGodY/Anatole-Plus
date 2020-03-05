@@ -46,4 +46,4 @@ Hexo博客还在用NexT？看惯了吧！试试Anatole-Plus。此主题系 Farbo
 
 图片:
 
-![II55JAL803_A15FOL~BK_ZS.png](https://masteroj.hustoj.com/image/public/2019/08/19/8a6c6296d396c.png)
+![II55JAL803_A15FOL~BK_ZS.png](https://ftp.bmp.ovh/imgs/2020/03/eaf0684581545b5d.png)
