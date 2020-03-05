@@ -1,13 +1,13 @@
 # Fork ben02的主题进行修改
 # https://github.com/Ben02/hexo-theme-Anatole
 
-keywords: Hexo,HTML,CSS,android,Linux
+keywords: #多个以英文半角逗号分隔，如 NmSL,WCnm
 author: ***,***@***  # 用户信息
 description: 蒟蒻也能变神犇      # 个人介绍
 avatar: /images/favicon.ico
 
 #canvas nest
-canvas_nest: false   # 动态背景，true改为启用
+canvas_nest: true   # 动态背景，true改为启用
 
 # Social Accounts
 # 整个url
@@ -15,10 +15,6 @@ github: https://github.com/***
 mail: mailto:***@***
 zhihu: https://www.zhihu.com/people/***
 QQ: http://wpa.qq.com/msgrd?v=3&uin=***&site=qq&menu=yes
-
-# 搜索
-search:
-  enable: true
 
 # 评论
 duoshuo: 
