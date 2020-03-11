@@ -38,11 +38,24 @@ Hexo博客还在用NexT？看惯了吧！试试Anatole-Plus。此主题系 Farbo
  4. 安装必要插件，bash内运行
  ```bash
  npm install --save hexo-render-pug hexo-generator-archive hexo-generator-tag hexo-generator-index hexo-generator-category hexo-generator-searchdb
+ npm install hexo-generator-feed
  ```
+如果要添加rss，请在hexo根目录下的_config.yml追加：
+```YAML
+#rss
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
+    hub:
+    content:
+    content_limit:
+    content_limit_delim: ' '
+```
 
 ### Demo
 
-链接:[KLDGodY's blog](https://www.kldgody.top)
+链接:[KLDGodY's blog](https://nmsl.dog)
 
 图片:
 
