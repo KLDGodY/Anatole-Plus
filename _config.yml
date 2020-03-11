@@ -1,9 +1,8 @@
 # Fork ben02的主题进行修改
 # https://github.com/Ben02/hexo-theme-Anatole
 
-keywords: #多个以英文半角逗号分隔，如 NmSL,WCnm
-author: ***,***@***  # 用户信息
-description: 蒟蒻也能变神犇      # 个人介绍
+author: user  # 用户信息
+description: description      # 个人介绍
 avatar: /images/favicon.ico
 
 #canvas nest
